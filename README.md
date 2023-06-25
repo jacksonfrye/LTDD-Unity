@@ -1,16 +1,7 @@
-# FakeSimCity
-This project is a city constructor game like SimCity for smartphones builted in [Unity3D](https://unity3d.com/).
+# Project LTDD-Unity
 
-This game contains:
-* some game models:
+## Project name: Lego Caria City
 
-<p align="center">
-  <img src="/info/models.PNG" width="46%">
-  <img src="/info/models2.PNG" width="46%">
-</p>
+## Members:
+- ### Đoàn Minh Nhật - 44.01.104.160
 
-* simple AI for car auto driving:
-
-<p align="center">
-  <img src="/info/car_animation.gif">
-</p>
